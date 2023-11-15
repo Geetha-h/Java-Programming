@@ -1,0 +1,13 @@
+Collections- group of items 
+1.super most interface us Iterable
+2.extended by Collection
+3.it has 3 child interface--> List Queue & Set
+
+Generic data class --> 
+We have mulitple class having
+same funcationality but diff datatype
+(same set of methods but diff data type)
+
+
+1. Arraylist is dynamic --> Arraylist size is not fixed
+2. 
